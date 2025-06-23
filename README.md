@@ -4,3 +4,4 @@
 ## Day 2: Greatest Common Divisor of Strings
 ## Day 3: Reverse Vowels of a String
 ## Day 4: Kids With the Greatest Number of Candies
+## Day 5: Reverse Words in a String
