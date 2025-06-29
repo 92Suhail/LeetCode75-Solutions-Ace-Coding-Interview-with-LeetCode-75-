@@ -7,3 +7,5 @@
 ## Day 5: Can Place Flowers
 ## Day 6: Reverse Words in a String
 ## Day 7: Product of Array Except Self
+## Day 8: Increasing Triplet Subsequence
+## Day 9: Is Subsequence
