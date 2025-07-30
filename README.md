@@ -18,3 +18,4 @@
 ## Day 16: House Robber
 ## Day 17: Nearest Exit from Entrance in Maze
 ## Day 18: Rotting Oranges
+## Day 19: Count Good Nodes in Binary Tree
